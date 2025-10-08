@@ -74,8 +74,4 @@ Ce projet a été réalisé par une équipe de 6 étudiants, chacun ayant contri
 
  
 
-### Instructions pour l'utilisation
-
-- Remplacez `<URL_du_dépôt>` par l'URL réelle de votre dépôt Git.
-- Remplacez `<nom_du_dépôt>` par le nom de votre projet.
-- Ajoutez les noms des étudiants dans la section "Auteurs".
+ 
