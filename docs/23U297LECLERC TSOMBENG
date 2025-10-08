@@ -1,0 +1,21 @@
+## README 
+NOM : TSOMBENG GERALDIS LECLERC
+MATRICULE : 23U2976
+
+### Contributions
+
+- **Fonctionnalité : Application du filtre médian**
+
+### Description
+
+J'ai implémenté la fonction qui applique un filtre médian à l'image. Ce filtre est utilisé pour réduire le bruit et améliorer la qualité de l'image.
+
+### Instructions d'utilisation
+
+Pour appliquer le filtre médian :
+
+```bash
+fil <nom_fichier_entree> <nom_fichier_sortie>
+```
+
+---
